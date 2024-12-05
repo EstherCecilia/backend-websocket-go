@@ -25,14 +25,14 @@ Este projeto demonstra a implementação de um servidor WebSocket em **Go** e um
 git clone https://github.com/seu-usuario/websocket-go-react.git
 cd websocket-go-react/server
  ```
-2. **Inicie o servidor: Certifique-se de ter o Go instalado e execute:
+2. **Inicie o servidor: Certifique-se de ter o Go instalado e execute**:
  ```bash
 go run main.go
  ```
 
 O servidor estará disponível em http://localhost:8080.
 
-3. **Frontend (Cliente React)
+3. **Frontend (Cliente React)**
 Instale as dependências:
 
  ```bash
